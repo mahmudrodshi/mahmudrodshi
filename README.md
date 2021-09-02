@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahmudrodshi
 - 👀 I’m interested in Software/Game Development
 - 🌱 I’m currently learning JavaScript, Unity
-- 💞️ I’m looking to collaborate on Game Development
+- 💞️ I’m looking to collaborate on Software Development and Web Designing
 - 📫 DM me on Instagram @rodshimahmud
 
 <!---
