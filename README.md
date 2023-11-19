@@ -2,7 +2,7 @@
 🎮 Merging passion with code in Software & Game Development.  
 🌱 Advancing my craft in Unity.   
 🫵 Open to collaboration in Software Dev & Web Design. Let's innovate together.  
-📱 DM me on Instagram @rodshimahmud.
+📱 DM me on Instagram @tsmrodshi.
 
 <!---
 mahmudrodshi/mahmudrodshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
