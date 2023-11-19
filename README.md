@@ -1,7 +1,7 @@
- 🖖 Hey! I'm @rodshimahmud.  
+🖖 Hey! I'm @rodshimahmud.  
 🎮 Merging passion with code in Software & Game Development.  
-🌱 Advancing my craft in Unity. It's giving growth.  
-🫵 Open to collaboration in Software Dev & Web Design. Let's innovate and slay together.  
+🌱 Advancing my craft in Unity.   
+🫵 Open to collaboration in Software Dev & Web Design. Let's innovate together.  
 📱 DM me on Instagram @rodshimahmud.
 
 <!---
