@@ -1,5 +1,5 @@
 🖖 Hey! I'm @rodshimahmud.  
-🎮 Interesred in Software & Game Development.  
+🎮 Interested in Software & Game Development.  
 🌱 Currently advancing my craft in Unity.   
 🫵 Open to collaboration in Software Dev & Web Design. Let's innovate together.  
 📱 DM me on Discord @rodshimahmud.
