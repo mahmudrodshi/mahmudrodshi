@@ -1,4 +1,4 @@
-🖖 Hey! I'm @rodshimahmud.  
+🖖 Hey! I'm Rodshi.  
 🎮 Interested in Software & Game Development.  
 🌱 Currently advancing my craft in Unity.   
 🫵 Open to collaboration in Software Dev & Web Design. Let's innovate together.  
